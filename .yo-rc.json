@@ -1,0 +1,6 @@
+{
+  "generator-spring-microservice": {
+    "packageName": "no.nb.microservices.thumbnail",
+    "packageFolder": "no/nb/microservices/thumbnail"
+  }
+}
